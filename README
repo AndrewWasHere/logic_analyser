@@ -1,0 +1,6 @@
+Arduino Logic Analyser
+Written by Andrew Lin, May, 2011
+
+An internal logic analyser for Arduino. This class is meant to be added to Arduino sketches during development
+to probe the digital pins of the Arduino, much as an external logic analyser would. To use, add LogicAnalyser.cpp
+and LogicAnalyser.h to an Arduino sketch, and create and instance of the LogicAnalyser class.
